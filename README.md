@@ -59,7 +59,7 @@
 
 1. clone the project in android studio
 2. change applicationID (packageName ) as you like.
-3. change the app ame.
+3. change the app name.
 4. may need to sync , clean then rebuild the project.
 
 # Demo
